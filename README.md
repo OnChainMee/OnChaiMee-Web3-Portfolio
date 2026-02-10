@@ -1,4 +1,4 @@
-# Dillon | Blockchain AI Architect & Full-Stack Web3 Engineer
+# Blockchain AI Architect & Full-Stack Web3 Engineer
 
 🚀 **I build scalable, secure, and AI-powered blockchain systems across EVM chains, Solana, and Bitcoin.** My expertise spans **DeFi, DEXs, NFT marketplaces, P2E games, hybrid on-chain/off-chain data systems, and AI agents**.
 
