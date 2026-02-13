@@ -89,14 +89,18 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Repo:** [Backend](https://github.com/OnChainMee/onchain-experiments-v1)
 
-### **🔷 Ethereum Token Launchpad**
+### **🔷 Ape Store - Base Token Launchpad**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/d4c61a64-88ef-41f3-b13c-a727e37a01c3">
 
-- PumpFun Fork in Ethereum
+- Anyone can create ("launch") a token in seconds with almost no technical knowledge required. It costs only the gas fee (very cheap on Base), and no liquidity needs to be provided by the creator.
 
-- 📌 **Live:** [digimonkz.com](https://digimonkz.com/)
+- Once launched, the token becomes immediately tradable on the platform itself. It uses a bonding curve so trading starts right away without presales or team allocations.
 
-- 📌 **Repo:** [Smart Contract](https://github.com/OnChainMee/DigiMonkz-Staking) / [Frontend](https://github.com/OnChainMee/DigiMokz-Frontend)
+- Anti-rug / Fair Launch Focus
+
+- 📌 **Live:** [ape.store](https://ape.store/)
+
+- 📌 **Repo:** [Smart Contract_v1](https://github.com/OnChainMee/evm-base-pumfun-smart-contract-v1
 
 ### **🔷 Yieldz Lending (Polygon)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/e16d639e-3c84-4e90-ac47-889373b477b0">
