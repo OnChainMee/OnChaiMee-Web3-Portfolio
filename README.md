@@ -193,25 +193,16 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Repo:** [Artplex](https://github.com/OnChainMee/artplex-nft-launchpad)
 
-### **🟢 HydraSwap (Solana DEX)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/f11ab626-1042-4de9-9455-8b6c35ee350b">
+### **🟢 Ballistic Trading Platform**
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/6529ad37-6c40-43e1-97e6-49c20489138f">
 
--  Cross-chain DEX with **Hydra Market Maker (HMM)**
+-  Cross-chain token launch
 
-- Concentrated liquidity & impermanent loss reduction
+- Token Management
 
-- 📌 **Live:** [hydraswap.io](https://hydraswap.io/)
+- 📌 **Live:** [ballistic.app](https://ballistic.app/)
 
-- 📌 **Repo:** [Smart Contracts](https://github.com/OnChainMee/hydra-swap-HMM-dex)
-
-### **🟢 Seek Syndicate (P2E Game)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/d3567afa-68c8-45ca-a24b-8642d3cb4947">
-
-- SPL token rewards, Next.js frontend, Anchor smart contracts
-
-- 📌 **Live:** [seekersyndicate.com](https://www.seekersyndicate.com/)
-
-- 📌 **Repo:** [Smart Contracts](https://github.com/OnChainMee/SPLFaucetSmartContract)
+- 📌 **Repo:** [Smart Contracts](https://github.com/OnChainMee/ballistic-smart-contract)
 
 ---
 
