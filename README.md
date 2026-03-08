@@ -4,6 +4,8 @@
 
 I design systems that combine **smart contracts, AI agents, and real-world data** to create full-stack decentralized applications with production-level performance.
 
+📩 Contact: [Telegram @OnChainMee](https://t.me/OnChainMee)
+[Twitter @OnChainMee](https://x.com/OnChainMee)
 ---
 
 ## 🌐 Key Expertise
