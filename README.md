@@ -51,7 +51,6 @@
 - Performance: ~10ms AI responses, 70% reduction in database queries for scalable blockchain AI systems.
 
 📌 **Live:** [unbound.games](https://www.unbound.games/)
-📌 **Repos:** [GitHub](https://github.com/Fighters-Unbound/fighters-unbound)
 
 ---
 
@@ -63,7 +62,6 @@
 - Technologies: AI models integrated with Solidity/Rust smart contracts for secure, decentralized execution.
 
 📌 **Live:** [nyxcipher.ai](https://nyxcipher.ai/)
-📌 **Repo:** [Backend](https://github.com/OnChainMee/nyx-cipher/backend)
 
 ---
 
@@ -78,7 +76,6 @@
 - Technologies: Solidity smart contracts, EVM-compatible tools for low-gas transactions.
 
 📌 **Live:** [monstro.fun](https://monstro.fun/)
-📌 **Repo:** [Smart Contract](https://github.com/OnChainMee/monstrodefi-smart-contract)
 
 ### **🔷 360-Lore Leaderboard (ApeChain) - Blockchain Leaderboard dApp**
 
@@ -89,7 +86,6 @@
 - Technologies: React Vite frontend, integrated with ApeChain smart contracts.
 
 📌 **Live:** [369-lore-leaderboard](https://369-lore-leaderboard.vercel.app/)
-📌 **Repo:** [GitHub](https://github.com/OnChainMee/369-lore-leaderboard)
 
 ### **🔷 Ape Store (Base) - Fair Launch Token Pad**
 
@@ -100,7 +96,6 @@
 - Technologies: Solidity smart contracts, Base chain optimizations for low fees.
 
 📌 **Live:** [ape.store](https://ape.store/)
-📌 **Repo:** [Smart Contract V1](https://github.com/OnChainMee/evm-base-pumfun-smart-contract-v1)
 
 ---
 
@@ -114,7 +109,6 @@
 - Technologies: WebSockets, Redis, Rust smart contracts for Solana performance.
 
 📌 **Live:** [pvplabs.xyz](https://pvplabs.xyz/)
-📌 **Repos:** [Backend](https://github.com/OnChainMee/pvplabs/backend)/[Frontend](https://github.com/OnChainMee/pvplabs/frontend)
 
 ### **🟢 Luck.io (Solana) - Provably Fair Non-Custodial Casino**
 
@@ -125,7 +119,6 @@
 - Technologies: Rust programs on Solana for fast, low-fee transactions.
 
 📌 **Live:** [luck.io](https://luck.io/)
-📌 **Repo:** [GitHub](https://github.com/luck-io-org/Luck.io-casino-game)
 
 ### **🟢 Nutmarket (Solana) - NFT Marketplace with Games**
 
@@ -136,7 +129,6 @@
 - Technologies: Rust smart contracts, Solana blockchain for high-speed operations.
 
 📌 **Live:** [nut.market](https://nut.market)
-📌 **Repo:** [GitHub](https://github.com/OnChainMee/nut.market-marketplace)
 
 ### **🟢 Critters Quest (Solana) - NFT Staking & Gaming dApp**
 
@@ -147,7 +139,6 @@
 - Technologies: Solana smart contracts for staking and on-chain interactions.
 
 📌 **Live:** [critters.quest](https://critters.quest/)
-📌 **Repo:** [GitHub](https://github.com/OnChainMee/critters-quest)
 
 ### **🟢 Floppy Labs (Solana) - Non-Custodial NFT Staking**
 
@@ -158,7 +149,6 @@
 - Technologies: Rust programs, Solana escrow wallets for non-custodial security.
 
 📌 **Live:** [floppylabs.io](https://floppylabs.io)
-📌 **Repo:** [GitHub](https://github.com/OnChainMee/floppylabs-nft-staking)
 
 ### **🟢 Artplex (Solana) - Secure NFT Launchpad**
 
@@ -167,7 +157,6 @@
 - Technologies: Anchor/Rust for high-performance Solana programs.
 
 📌 **Live:** [artplex.io](https://artplex.io/)
-📌 **Repo:** [GitHub](https://github.com/OnChainMee/artplex-nft-launchpad)
 
 ### **🟢 Ballistic (Solana) - Cross-Chain Token Launch Platform**
 
@@ -178,7 +167,6 @@
 - Technologies: Rust smart contracts for Solana efficiency.
 
 📌 **Live:** [ballistic.app](https://ballistic.app/)
-📌 **Repo:** [Smart Contracts](https://github.com/OnChainMee/ballistic-smart-contract)
 
 ---
 
@@ -193,7 +181,6 @@
 - Technologies: Bitcoin protocol extensions for ordinals.
 
 📌 **Live:** [internetjpeg.com](https://internetjpeg.com/)
-📌 **Repos:** [Frontend](https://github.com/internetjpegs-com/Frontend) / [Backend](https://github.com/internetjpegs-com/Backend)
 
 ### **🟡 ArcusLab (Bitcoin) - Institutional DeFi Lending Protocol**
 
@@ -204,7 +191,6 @@
 - Technologies: Bitcoin scripts, BRC-20 standards for DeFi on BTC.
 
 📌 **Live:** [arcusbtc.com](https://arcusbtc.com/)
-📌 **Repos:** [Backend](https://github.com/ArcusBTC/arcus-app) / [Frontend](https://github.com/ArcusBTC/ArcusLab-FE)
 
 ---
 
