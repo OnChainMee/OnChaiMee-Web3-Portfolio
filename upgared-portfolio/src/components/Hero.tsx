@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import { profileLinks } from '../constants/profileLinks';
 
 const heroImg =
   'https://github.com/user-attachments/assets/b36977bf-f4c6-49bb-ba22-3ac516153abb';
@@ -45,7 +46,7 @@ export function Hero() {
             className="mt-8 flex w-full flex-col gap-3 xs:flex-row xs:flex-wrap sm:mt-10 sm:gap-4"
           >
             <a
-              href="https://t.me/OnChainMee"
+              href={profileLinks.telegram.href}
               target="_blank"
               rel="noreferrer"
               className="inline-flex min-h-[48px] w-full items-center justify-center rounded-3xl bg-white px-6 py-3.5 text-sm font-semibold text-ink transition-[transform,box-shadow] duration-500 ease-[cubic-bezier(0.16,1,0.3,1)] hover:-translate-y-1 hover:shadow-[0_20px_45px_-18px_rgba(45,212,191,0.55)] xs:flex-1 sm:w-auto sm:px-7 sm:text-base"
@@ -53,7 +54,7 @@ export function Hero() {
               Message on Telegram
             </a>
             <a
-              href="https://x.com/OnChainMee"
+              href={profileLinks.twitter.href}
               target="_blank"
               rel="noreferrer"
               className="inline-flex min-h-[48px] w-full items-center justify-center rounded-3xl border border-white/15 px-6 py-3.5 text-sm font-semibold text-white transition-[transform,border-color,background-color,color] duration-500 ease-[cubic-bezier(0.16,1,0.3,1)] hover:-translate-y-1 hover:border-acid/50 hover:bg-acid/10 hover:text-acid xs:flex-1 sm:w-auto sm:px-7 sm:text-base"

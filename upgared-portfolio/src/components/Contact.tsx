@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import { profileLinks } from '../constants/profileLinks';
 import { hasWalletConnect } from '../lib/wagmi';
 import { SocialQuickLinks } from './SocialQuickLinks';
 
@@ -47,7 +48,7 @@ export function Contact() {
           className="mt-8 flex w-full flex-col items-stretch justify-center gap-3 sm:mt-10 sm:flex-row sm:items-center sm:gap-4"
         >
           <a
-            href="https://t.me/OnChainMee"
+            href={profileLinks.telegram.href}
             target="_blank"
             rel="noreferrer"
             className="inline-flex min-h-[52px] w-full items-center justify-center rounded-3xl bg-acid px-6 py-4 text-base font-semibold text-ink transition-[transform,box-shadow] duration-500 ease-[cubic-bezier(0.16,1,0.3,1)] hover:-translate-y-1 hover:shadow-[0_22px_48px_-18px_rgba(45,212,191,0.65)] sm:min-w-[220px] sm:w-auto"
@@ -55,7 +56,7 @@ export function Contact() {
             Telegram
           </a>
           <a
-            href="https://x.com/OnChainMee"
+            href={profileLinks.twitter.href}
             target="_blank"
             rel="noreferrer"
             className="inline-flex min-h-[52px] w-full items-center justify-center rounded-3xl border border-white/15 px-6 py-4 text-base font-semibold text-white transition-[transform,border-color,background-color] duration-500 ease-[cubic-bezier(0.16,1,0.3,1)] hover:-translate-y-1 hover:border-white/40 hover:bg-white/5 sm:min-w-[220px] sm:w-auto"

@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useState } from 'react';
+import { profileLinks } from '../constants/profileLinks';
 import { WalletControls } from './WalletControls';
 import { SocialQuickLinks } from './SocialQuickLinks';
 
@@ -64,7 +65,7 @@ export function Nav() {
             <WalletControls />
           </div>
           <a
-            href="https://t.me/OnChainMee"
+            href={profileLinks.telegram.href}
             target="_blank"
             rel="noreferrer"
             className="hidden rounded-2xl bg-white px-4 py-2 text-sm font-semibold text-ink transition-transform duration-500 ease-[cubic-bezier(0.16,1,0.3,1)] hover:-translate-y-0.5 sm:inline-flex"
@@ -110,7 +111,7 @@ export function Nav() {
             </a>
           ))}
           <a
-            href="https://t.me/OnChainMee"
+            href={profileLinks.telegram.href}
             target="_blank"
             rel="noreferrer"
             className="mt-2 inline-flex items-center justify-center rounded-2xl bg-white px-4 py-3 text-center text-sm font-semibold text-ink"
